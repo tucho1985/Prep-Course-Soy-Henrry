@@ -1,2 +1,2 @@
-# Prep-Course-Soy-Henrry
-Este es un repositorio de prueba del modulo 2 del Prep Course Henry
+Fernando Manevy
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde github a mi computadora local
